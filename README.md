@@ -23,3 +23,7 @@ Permissions:
 - axe.fire
 - axe.damage
 
+UPDATES:
+
+  Fixed the bug that gave the effect in areas without pvp. For this, you will have to implement the WorldGuard plugin! 09/03/2021
+
